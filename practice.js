@@ -1,1 +1,3 @@
-console.log('sami');
+const accountId = "alsami65"
+
+console.log(accountId);
